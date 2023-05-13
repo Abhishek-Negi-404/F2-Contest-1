@@ -1,5 +1,6 @@
 body{
     text-align: center;
+/*     background-color: rgb(24, 26, 27); */
 }
 .container{
     margin-top: 20vh;
@@ -8,6 +9,8 @@ body{
 }
 button{
     background-color: #414141;
+    color: #ffffff;
+    font: bold;
     width: 300px;
     padding: 8px;
     font-size: medium;
